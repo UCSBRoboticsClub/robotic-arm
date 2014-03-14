@@ -1,0 +1,123 @@
+
+<!-- saved from url=(0206)https://www1.mcmaster.com/WebParts/CrtePswdWebPart/CrtePswdWebPartSecr.aspx?webpartid=CrtePswdWebPart_635303463898617108JBSF&cntctnm=&usrnm=&cmpnynm=&vstridupdtts=2014-03-13%2022:26:29.520&showallflds=False -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Create Password Web Part Messenger</title>
+    
+    <link rel="stylesheet" href="https://www1.mcmaster.com/HTTPHandlers/ScriptCombiner/353_e2b49c78f9fffcb6223935b98cada168.css">
+<script type="text/javascript">(function(){window.mPageEmbeddedFiles=window.mPageEmbeddedFiles||{};var f=window.mPageEmbeddedFiles;f['crtepswdwebpartlayout.css']=1;f['cmnstyle.css']=1;f['shelllayout.css']=1;})();</script>
+    	      
+    <style type="text/css">
+        .CrtePswdWebPartLayout_MsgIFrame{display: none;}
+    </style>
+    
+    <!--[if IE]>
+        <style type="text/css">
+         .CrtePswdWebPartLayout_MsgIFrame{display: block !important;
+                                        visibility: hidden;
+        }
+        </style>
+    <![endif]-->
+    
+    <script type="text/javascript">
+        McMaster = new Object();
+
+        function GetMcMaster() {
+            return McMaster;
+        }
+	</script>
+	
+</head>
+<body onload="CrtePswdWebPartSecr.Page_Load(&#39;CrtePswdWebPart_635303463898617108JBSF&#39;,&#39;False&#39;);" style="padding:0;">
+ <div id="CrtePswdWebPart_635303463898617108JBSF_CrtePswdSecrCntnr" class="CrtePswdWebPartLayout_CrtePswdSecrCntnr">
+ 
+	<div class="Clear" id="CrtePswdWebPart_635303463898617108JBSF_cntctFldsCntnr" style="display:none">
+		<div class="Clear">
+			<div class="CrtePswdWebPartLayout_NonPswdInpCntnr">
+				<div>Name</div>
+				<input type="text" id="CrtePswdWebPart_635303463898617108JBSF_secrNmTxtBx" class="CrtePswdWebPartLayout_InpBx" maxlength="128" size="30" value="">
+			</div>
+		</div>
+		<div class="Clear">
+			<div class="CrtePswdWebPartLayout_NonPswdInpCntnr">
+				<div>Company Name</div>
+				<input type="text" id="CrtePswdWebPart_635303463898617108JBSF_secrCompanyNmTxtBx" class="CrtePswdWebPartLayout_InpBx" maxlength="128" size="30" value="">
+			</div>
+		</div>
+		<div class="Clear">
+			<div class="CrtePswdWebPartLayout_NonPswdInpCntnr">
+				<div>E-mail address</div>
+				<input type="text" id="CrtePswdWebPart_635303463898617108JBSF_secrEmailTxtBx" class="CrtePswdWebPartLayout_InpBx" maxlength="128" size="30" value="">
+			</div>
+        <div class="CrtePswdWebPartLayout_ImplicitUniqueUsrNmChk">
+            <label id="CrtePswdWebPart_635303463898617108JBSF_ImplicitUniqueUsrNmChkLblEmailAddr" class="ImplicitUniqueUsrNmChk"></label>
+        </div>
+	</div>
+		<div class="CrtePswdWebPartLayout_ChkBoxWithLbl CrtePswdWebPartLayout_UsrNmSameAsEMail">
+			<input type="checkbox" id="CrtePswdWebPart_635303463898617108JBSF_UsrNmSameAsEMailChkBx" class="CrtePswdWebPartLayout_ChkBx Clear" checked="checked" onclick="CrtePswdWebPartSecr.showOrHideUsrNmFld(&#39;CrtePswdWebPart_635303463898617108JBSF&#39;, this);">
+			<span>Use my e-mail as my user name</span>
+		</div>
+	</div>
+
+	<div class="Clear" id="CrtePswdWebPart_635303463898617108JBSF_UsrNmInpCntnr">
+        <div class="CrtePswdWebPartLayout_NonPswdInpCntnr">
+            <div>User name or e-mail address</div>
+            <input type="text" id="CrtePswdWebPart_635303463898617108JBSF_secrUsrNmTxtBx" class="CrtePswdWebPartLayout_InpBx" maxlength="128" size="30" value="">
+        </div>
+        <div class="CrtePswdWebPartLayout_ImplicitUniqueUsrNmChk">
+            <label id="CrtePswdWebPart_635303463898617108JBSF_ImplicitUniqueUsrNmChkLblUsrNm" class="ImplicitUniqueUsrNmChk"></label>
+        </div>
+    </div>
+	
+	<div id="CrtePswdWebPart_635303463898617108JBSF_EmptyUsrNmAlertCntnr" class="Alert Clear CrtePswdWebPartLayout_AlertCntnr CrtePswdWebPartLayout_SecrAlertTxt" style="visibility: hidden;">
+        Please enter a user name.
+    </div>
+    
+    <div class="Clear">
+        <div class="CrtePswdWebPartLayout_PswdInpCntnr">
+            <div>Password</div>
+            <input type="text" id="CrtePswdWebPart_635303463898617108JBSF_SecrPswdTxtBx" class="CrtePswdWebPartLayout_InpBx" maxlength="50" size="30" onfocus="CrtePswdWebPartSecr.PswdLnk_Focus(&#39;CrtePswdWebPart_635303463898617108JBSF&#39;,&#39;http://www.mcmaster.com/WebParts/CrtePswdWebPart/CrtePswdWebPartMessenger.aspx&#39;,&#39;846902603645955&#39;);" onkeyup="CrtePswdWebPartSecr.TxtInp_Keyup(event,&#39;CrtePswdWebPart_635303463898617108JBSF&#39;,&#39;http://www.mcmaster.com/WebParts/CrtePswdWebPart/CrtePswdWebPartMessenger.aspx&#39;,&#39;846902603645955&#39;,&#39;2014-03-13 22:26:29.520&#39;);">
+        </div>
+        <div class="CrtePswdWebPartLayout_PswdStrengthCntnr">
+            <div>
+                <a id="CrtePswdWebPart_635303463898617108JBSF_PswdStrength" class="CrtePswdWebPartLayout_PswdStrength" href="https://www1.mcmaster.com/help/loginhelp.asp#id4" target="_blank">Password strength</a>
+            </div>
+            <div>
+                <div id="CrtePswdWebPart_635303463898617108JBSF_PswdStrengthBxLeft" class="CrtePswdWebPartLayout_PswdStrengthBx"></div>
+                <div id="CrtePswdWebPart_635303463898617108JBSF_PswdStrengthBxRight" class="CrtePswdWebPartLayout_PswdStrengthBx"></div>
+                <div class="Clear"></div>
+            </div>
+        </div>
+        <div class="CrtePswdWebPartLayout_HelpIcon">
+            <div>
+                <a href="https://www1.mcmaster.com/help/loginhelp.asp#id3" target="_blank" onmouseover="return Cmn.SetWndwStat(&#39;Help&#39;);" onmouseout="return Cmn.SetWndwStat(&#39;&#39;);" onclick="return Cmn.SetWndwStat(&#39;&#39;);"><img src="HelpIcon.gif" alt="Help"></a>
+            </div>
+        </div>
+    </div>
+	
+	<div id="CrtePswdWebPart_635303463898617108JBSF_EmptyPswdAlertCntnr" class="Alert Clear CrtePswdWebPartLayout_AlertCntnr CrtePswdWebPartLayout_SecrAlertTxt" style="visibility: hidden;">
+        Please enter a password.
+    </div>
+	
+    <div class="CrtePswdWebPartLayout_ChkBoxWithLbl CrtePswdWebPartLayout_RememberMe">
+        <input type="checkbox" id="CrtePswdWebPart_635303463898617108JBSF_RememberUsrNmChkBx" class="CrtePswdWebPartLayout_ChkBx Clear" checked="checked">
+        <span>Remember me on this computer</span>
+    </div>
+
+    <div class="CrtePswdWebPartLayout_BtnCntnr">
+        <a onmouseover="return Cmn.SetWndwStat(&#39;Create a login&#39;);" onmouseout="return Cmn.SetWndwStat(&#39;&#39;);" onclick="return Cmn.SetWndwStat(&#39;&#39;);" href="javascript:CrtePswdWebPartSecr.CrtePswdLnk_Click('CrtePswdWebPart_635303463898617108JBSF','http://www.mcmaster.com/WebParts/CrtePswdWebPart/CrtePswdWebPartMessenger.aspx','846902603645955','2014-03-13 22:26:29.520');">
+            <img src="AddPswdBtn.png" alt="CrtePswd"></a>
+        <a onmouseover="return Cmn.SetWndwStat(&#39;Cancel create login&#39;);" onmouseout="return Cmn.SetWndwStat(&#39;&#39;);" onclick="CrtePswdWebPartSecr.NotNowBtn_Click(&#39;CrtePswdWebPart_635303463898617108JBSF&#39;,&#39;http://www.mcmaster.com/WebParts/CrtePswdWebPart/CrtePswdWebPartMessenger.aspx&#39;);return false;" href="https://www1.mcmaster.com/WebParts/CrtePswdWebPart/CrtePswdWebPartSecr.aspx?webpartid=CrtePswdWebPart_635303463898617108JBSF&cntctnm=&usrnm=&cmpnynm=&vstridupdtts=2014-03-13%2022:26:29.520&showallflds=False#"><img src="NotNowBtn.png" alt="Not Now"></a>
+    </div>
+
+    <iframe id="CrtePswdWebPart_635303463898617108JBSF_MsgIFrame" class="CrtePswdWebPartLayout_MsgIFrame" style="width: 0; height: 0;">No iframe support.</iframe>
+ </div>
+ <div id="CrtePswdWebPart_635303463898617108JBSF_CrtePswdSecrWaitCntnr" class="CrtePswdWebPartLayout_CrtePswdSecrWaitCntnr" style="display:none"></div>
+ 
+<script type="text/javascript" src="354_7a93e1b761f010d32d2656768a43360d.js"></script>
+
+<script type="text/javascript" src="355_dd9221f44d3f605781826f413a199e6c.js"></script>
+
+
+                                                 
+
+</body></html>

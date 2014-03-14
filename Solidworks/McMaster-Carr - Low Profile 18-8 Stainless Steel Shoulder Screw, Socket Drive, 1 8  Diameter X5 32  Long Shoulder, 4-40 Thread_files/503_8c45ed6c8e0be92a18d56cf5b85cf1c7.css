@@ -1,0 +1,568 @@
+/* 3/8/2014 11:59:21 AM, 127*/
+* html div#SpecSrch_Cntnr{margin-left:3px;}* html .SpecSrch_Cntnr_Display{width:214px;}#ProductPage{width:100%;}@media print{.SpecSrch_Cntnr{display:none!important;}}
+
+.SpecSrch_Cntnr{border-top:solid 1px #CCC;border-right:solid 1px #CCC;border-bottom:solid 1px #CCC;height:100%;float:left;margin-left:10px;}.SpecSrch_Inner{background-color:#eee;position:relative;float:left;width:199px;height:100%;overflow:auto;overflow-x:hidden;}.SpecSrch_Toggle{width:10px;float:left;cursor:pointer;overflow:hidden;}.SpecSrch_ToggleBtn{left:-59px;top:-31px;}.SpecSrch_Cntnr_Hidden{display:none;}.SpecSrch_Cntnr_Display{display:block;}.SpecSrch_PaneBtn{left:-58px;top:-32px;}.SpecSrch_PaneBtn_Cntnr{display:block;height:37px;width:10px;position:relative;overflow:hidden;top:50%;}.ProdPageContent{display:block;overflow:auto;position:relative;height:100%;width:100%;padding-right:10px;padding-left:15px;}
+
+.InLnOrdWebPart_TopSpacing{margin-top:8px;}.InlnOrdSpec_AttrTitleSpacing{margin-bottom:5px;}.InLnOrdWebPartLayout_OtherInpBx{border:1px solid #C0C0C0;width:50px;}.InLnOrdWebPartLayout_OtherInpBxCntnr{float:left;}.InLnOrdWebPartLayout_OtherChoice{float:left;width:50px;}.InLnOrdSpecSrch_AttrLabel{min-width:60px;}.SpecSrch_AttrHide{display:none;}.SpecSrch_AttrShow{display:block;}.SpecSrch_AttrImgSpacing{text-align:center;padding-top:5px;padding-bottom:10px;}.SpecSrch_AttrLabel{font-family:arial,helvetica,sans-serif;font-size:12px;text-align:left;font-weight:bold;padding-left:3px;padding-top:2px;padding-bottom:3px;vertical-align:top;}.SpecSrch_AttrChldLabel{font-family:arial,helvetica,sans-serif;font-size:12px;text-align:left;font-weight:normal;}.SpecSrch_AttrChldLabelIndent{padding-left:7px;padding-bottom:1px;}.SpecSrch_CompositeTblSpacing{margin-left:3px;margin-right:3px;}.SpecSrch_CompositeTblRowRules{border-top:1px solid #999;}.SpecSrch_AttrCompositeTblChldLabel{padding-bottom:1px;text-align:center;vertical-align:bottom;}.SpecSrch_AttrSeparator{border-top-width:1px;border-bottom-width:2px;clear:both;height:0;line-height:0;overflow:hidden;}.SpecSrch_CaptionRightSide{padding-left:5px;padding-right:0;}.SpecSrch_ChldAttrMargin{margin-bottom:5px;}.SpecSrch_ChldAttrTbl{table-layout:fixed;}.SpecSrch_ChldAttrValTopAlign{vertical-align:top;}.SpecSrch_ChldCompositeAttrTbl{table-layout:fixed;}.SpecSrch_CntxtSrchBx{border:1px solid #999;line-height:15px;}.SpecSrch_CntxtSrchLeftIndentHdr{padding-left:5px;}.SpecSrch_CntxtSrchRghtIndentHdr{padding-right:0;}.SpecSrch_CompositeChldAttr{padding-right:5px;padding-left:5px;}.SpecSrch_DropDownMenuHidden{display:none;}.SpecSrch_DropDownMenuVisible{position:absolute;z-index:100;background-color:#FFF;border:1px solid #999;margin:0;outline-style:none;}.SpecSrch_DropDownCntnr{border-width:1px;}.SpecSrch_DropDownBtn{border-width:1px;height:16px;padding:2px 0 0 6px;}.SpecSrch_Fraction{font-size:10px;line-height:11px;}.SpecSrch_FrctnRightAlign{text-align:right;}.SpecSrch_ImgBottomAlign{vertical-align:bottom;padding-right:14px;}.SpecSrch_ImgTopAlign{vertical-align:top;}.SpecSrch_ImgCenterAlign{text-align:center;}.SpecSrch_ImgLeftAlign{text-align:left;}.SpecSrch_TxtAlignCenter{text-align:center;}.SpecSrch_StackedTxtPadding{padding-left:2px;padding-right:2px;}.SpecSrch_TxtAlignLeft{text-align:left;}.SpecSrch_IndentLeftChldAttr{padding-left:2px;}.SpecSrch_IndentLv1{padding-left:14px;}.SpecSrch_IndentLvChld{padding-left:2px;}.SpecSrch_IndentRightChldAttr{padding-right:2px;}.SpecSrch_GenInfoLnk{text-decoration:none;display:block;zoom:1;padding-top:2px;padding-right:16px;padding-bottom:2px;padding-left:5px;margin-top:1px;margin-bottom:3px;font-size:11px;}.SpecSrch_GenInfoLnk_Slctd{font-weight:normal;}.SpecSrch_GenInfoLnkPadding{margin-left:1px;}.SpecSrch_ChldAttrGenInfoLnkPadding{margin-left:5px;}.SpecSrch_GutterSeparatorTop{margin-top:12px;}.SpecSrch_GutterSeparatorBottom{margin-bottom:5px;}.SpecSrch_GutterValueTop{padding-top:2px;}.Touch_SpecSrch_GutterValueTop{padding-top:8px;}.SpecSrch_GutterValueBottom{padding-bottom:3px;}.Touch_SpecSrch_GutterValueBottom{padding-bottom:9px;}.SpecSrch_MoreLnk{font-family:arial,helvetica,sans-serif;font-size:11px;text-decoration:none;padding-top:2px;padding-left:2px;padding-right:2px;text-align:right;vertical-align:top;}.SpecSrch_Pane{line-height:13px;}.SpecSrch_PaneSpacing{padding-top:0;padding-left:5px;padding-right:5px;padding-bottom:15px;}.SpecSrch_ProgRevealBottomPadding{padding-bottom:0;}.SpecSrch_ScrollCntnr{border:solid 1px #999;}.SpecSrch_ScrollCntnrSpacing{margin-top:3px;margin-left:2px;}.SpecSrch_ScrollTblSpacing{margin-top:3px;}.SpecSrch_SideBySideTxtPadding{padding-left:8px;padding-top:4px;}.SpecSrch_StackedImgSpacing{padding-top:4px;padding-bottom:2px;}.SpecSrch_SideBySideImgSpacing{padding-top:4px;padding-bottom:5px;}.SpecSrch_SrchInp{border-width:1px;height:16px;}.SpecSrch_TblHdrLbl{font-family:arial,helvetica,sans-serif;font-size:12px;font-weight:normal;height:14px;}.SpecSrch_TblSrchInpSpacing{width:39px;}.SpecSrch_Txt{font-family:arial,helvetica,sans-serif;font-size:12px;line-height:13px;text-decoration:none;}.SpecSrch_SideBySideSpacing{padding-right:6px;}.SpecSrch_TxtAlignTop{vertical-align:top;}.SpecSrch_TxtAlignMiddle{vertical-align:middle;}.SpecSrch_TxtLeftAlign{text-align:left;}.SpecSrch_TitleSpcr{height:23px;}.SpecSrch_WarningMsg{padding-left:3px;padding-bottom:2px;}.SpecSrch_DigitAlign0{padding-left:0;text-align:left;}.SpecSrch_DigitAlign1{padding-left:7px;text-align:left;}.SpecSrch_DigitAlign2{padding-left:14px;text-align:left;}.SpecSrch_DigitAlign3{padding-left:21px;text-align:left;}.SpecSrch_DigitAlign4{padding-left:28px;text-align:left;}.SpecSrch_DigitAlign5{padding-left:35px;text-align:left;}.SpecSrch_DigitAlign6{padding-left:42px;text-align:left;}.SpecSrch_DigitAlignX0{padding-left:0;}.SpecSrch_DigitAlignX1{padding-left:7px;}.SpecSrch_DigitAlignX2{padding-left:14px;}.SpecSrch_DigitAlignX3{padding-left:21px;text-align:left;}.SpecSrch_DigitAlignX4{padding-left:28px;text-align:left;}.SpecSrch_DigitAlignX5{padding-left:35px;text-align:left;}.SpecSrch_DigitAlignX6{padding-left:42px;text-align:left;}
+
+.SpecSrch_AttrSeparator{border-top-style:solid;border-top-color:#999;border-bottom-style:solid;border-bottom-color:#FFF;}.SpecSrch_AttrLabel{color:#333;width:100%;}.SpecSrch_AttrChldLabel{color:#333;}.SpecSrch_CntxtSrchBx{text-indent:3px;}.SpecSrch_CntxtSrchBx_Wrapper{*margin-left:-3px;margin-left:2px;}.SpecSrch_DropDownBtn{-moz-user-select:none;background-image:url("data:image/gif;base64,R0lGODlhEgASAJEAAJmZmTNmM+7u7gAAACH5BAAAAAAALAAAAAASABIAAAIlhI6pZ+vYnotS0QrxuqH7YGlh8nkj+W2Oqa7PpcGYXNGS/YpJAQA7");*background-image:url("http://images2.mcmaster.com/gfx/DropDownBtn.gif?ver=15524802")!important;background-color:White;background-position:right center;background-repeat:no-repeat;border-style:solid;border-color:#999;outline-color:transparent;outline-style:none;}.SpecSrch_GenInfoLnk{color:#363;-moz-border-radius:4px 4px 4px 4px;-webkit-border-radius:4px;border-radius:4px;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAASCAIAAACRnwaAAAACiElEQVR4nO1aUUvbUBT+jinpkM0qhYIplel88smBjG4+zw330wtrJK4VdNWs66NO69S0aXL2cHPv5p5MdsPN4H5QCP3u+c458N2TSxJaxDGDACYiZgYIBIDBAEBAbpZBYM2aVWCJ9CUy3AvKr2EJFhYlgObzGUDMTCAQGKyGDlG2Jhcr96ROzWqw2qSYYb6XkmugKIqkybLpyNnvLws+mS0WVXm2hETGOy0xC93fPwAgsOIfg/Kz0sw6NavAcp7FT5Ey2em/1MDMZ+HZ6eD08vLSdd1Wq7X7endtde1R5M+7O5KBDJCcc/KERkVYgn5N0yzESVWPlOlegMI1gPnoyB8Mh2maKhstLy93u931dU/F0u3tLX7fccUwy0TA4pyfjyU5sTRqVoHVmsh8p4VrGHwZHB8fJ0mys7OziOMwDGfzuVA8/HTYaKyK2FqapmLGcApAbUrhZ862aX62DE2zrNws2qRM91JEJ05i4SoAXttre+1Op/N1NJpMJkmSBEGw/25fxNZSTsFi0BOYGeqBTTb5crNycunUrAILzYmM9lKwhrOLU+EqANOb6dbm1qvtba/dHg6HQRCMv43Tt5mdapxKh7J0cnbB6vaamy0WVXlWdyKDvRTUeZiqZwhQDqvX66uNhuu6s9lM2akGC4snY6Wxoq6jKGLmm+lNeBGenJyIw7qCNZZFDmx0Nvqf+4vFAoDjOOPv416vd/3jWkyvg48HaiVdXV0ZK9PifwMRjc5Hft8nojiO/6RerDw/eP9haSl7SWgnlkUOMPPmy00wfN9XfxJRs9nce7PnOA7L05idWBa5QURJkpyPR3XnGYMd1/FanvzGQa6xxrIoA/azGYtSYI1lUQp+AS5GVBexoxguAAAAAElFTkSuQmCC);*background-image:url("http://images1.mcmaster.com/gfx/grdntPlayStart.png?ver=22501806")!important;background-position:right 0;background-repeat:no-repeat;background-color:#EEE;border:1px solid #CCC;text-decoration:none;}.SpecSrch_Lbl{cursor:default;}.SpecSrch_Pane{position:relative;}.SpecSrch_Pane,.SpecSrch_Title{background-color:#EEE;}.SpecSrch_TitleHdrLbl{color:#000;}.SpecSrch_ScrollCntnr{border-color:#999;border-style:solid;background-color:#FFF;overflow-x:hidden;overflow-y:auto;}.SpecSrch_ScrollTblBodyCntnr{overflow-y:scroll;}.SpecSrch_SlctdVal{background-image:url(data:image/gif;base64,R0lGODlhCwALALMPAD4%2BPrOzs5ycnKioqHl5eYSEhEpKStfX18vLy7%2B%2Fv21tbWFhYVVVVeLi4jMzM%2B7u7iH5BAEAAA8ALAAAAAALAAsAAAQq8MkpxaCzLdLwa8zifQzTZRIDINQCNIUTYINjOMq4OM4xBg7BSJIYGiURADs%3D);*background-image:url("http://images2.mcmaster.com/gfx/chkGrey.gif?ver=25017844")!important;background-position:2px 4px;background-repeat:no-repeat;}.Touch_SpecSrch_SlctdVal{background-image:url(data:image/gif;base64,R0lGODlhCwALALMPAD4%2BPrOzs5ycnKioqHl5eYSEhEpKStfX18vLy7%2B%2Fv21tbWFhYVVVVeLi4jMzM%2B7u7iH5BAEAAA8ALAAAAAALAAsAAAQq8MkpxaCzLdLwa8zifQzTZRIDINQCNIUTYINjOMq4OM4xBg7BSJIYGiURADs%3D);*background-image:url("http://images2.mcmaster.com/gfx/chkGrey.gif?ver=25017844")!important;background-position:2px 10px;background-repeat:no-repeat;}.SpecSrch_SrchInp{border-color:#999;border-style:solid;cursor:text;}.SpecSrch_TblHdrLbl{color:#333;}.SpecSrch_TblInpRow{height:16px;}.SpecSrch_TxtOnlyValsAlignTop{vertical-align:top;}.SpecSrch_Value,.SpecSrch_MoreLnk,.SpecSrch_ClearAllLnk{color:#069;}.SpecSrch_Value_OrdrdLnk{color:#800080;}.SpecSrch_Value b{font-weight:normal;}.SpecSrch_AttrExpanded .SpecSrch_Value b{color:#000;background-color:#FFFFC3;}.SpecSrch_WarningMsg{color:black;}.SpecSrch_Title{position:fixed;z-index:99;line-height:16px;padding:2px 0 0 0;*top:79px;*height:21px;}* html .SpecSrchTitle{top:81px;}* html .SpecSrch_TitleSpcr{display:none;}.SpecSrch_TitleHdrLbl{display:block;font-weight:bold;padding:0 0 1px 2px;}.SpecSrch_ClearAllLnk{padding:0 2px 1px 2px;font-size:11px;float:right;}
+
+.SpecSrch_Pointer,.LandingPage_AttrDeepLnkLabel{cursor:pointer;}.LandingPage_SideBySideImg_Hover{border-bottom:1px solid #DDD!important;border-left:1px solid #DDD!important;border-top:1px solid #DDD!important;color:#000;background-color:#FFFFB5;}.LandingPage_SideBySideTxt_Hover{border-bottom:1px solid #DDD!important;border-right:1px solid #DDD!important;border-top:1px solid #DDD!important;color:#000;background-color:#FFFFB5;text-decoration:underline;}.LandingPage_StackedImg_Hover .LandingPage_ValImg,.LandingPage_ComplexStackedTop_Hover,.LandingPage_DeepLnkVal_Hover,.LandingPage_Val_Hover{color:#000;background-color:#FFFFB5;}.LandingPage_Val_Hover{text-decoration:underline;}.LandingPage_StackedTxt_Hover,.LandingPage_ComplexStackedTop_Hover,.LandingPage_DeepLnkVal_Hover{text-decoration:underline;}.LandingPage_ComplexStackedTop_Hover,.LandingPage_ComplexStackedTop_Hover_Border{border-top:1px solid #DDD;border-right:1px solid #DDD;border-left:1px solid #DDD;}.LandingPage_ComplexStackedImg_Hover{border-left:1px solid #DDD;border-bottom:1px solid #DDD;}.LandingPage_DeepLnkAttr_Hover{border-right:1px solid #DDD;border-bottom:1px solid #DDD;}.SpecSrch_Value_Hover,.SpecSrch_MoreLnk_Hover,.SpecSrch_ClearAllLnk_Hover,.SpecSrch_GenInfoLnk_Hover,.SpecSrch_GenInfoLnk_Slctd,.SpecSrch_GenInfoLnk_Hover_Slctd{color:#000;background-color:#FFFFB5;}.SpecSrch_GenInfoLnk_Slctd{background-color:#CDCDCD!important;}.SpecSrch_GenInfoLnk_Hover,.SpecSrch_GenInfoLnk_Hover_Slctd{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAASCAIAAACRnwaAAAABhElEQVR4nO3YT0sCQRgG8NlWZ0NKhURq/XNJCwxy7ZKQXqWPUJ+yU0e9FQiSkqJLlmnrQpctVsEWZHc6JMPSbaJFiud3mn15DnN4ed9hJcauCcBv21j3BeB/QmNBINBYEIjQui8Af9L9ID3sDy3LopQmk0mtpKl7HX9AwuMdRN3exPqDged5vBKJRMrlci73wCtYhSCm2dwZ6LrneYVC4SCfVyglhCwWi0ajMTWPeQyrEAS8vZd7vSvXdQkhakpNqalMJvM0Gpmm6bput9tNp1ZJTCwQ8DgefnUVIWRmzxRF2c/lqtVqsVgMh8PGi8GTaCwQ8DFz+Jl3mKIo8ViMUupPYhWCgGgsys+O4zDG7Jk9GU90XZ/P5/4kJhYIyGayodBqGMmybEyNer3earVs2yaE1M5rPInfDSDmrr3baXckSVoul/76dnTr8iLOPzGxQMxJ6VXTNMYYr0iSlEgkzioVfwwTC37Csk6fjZEibzLCZCofHU6+BdBYEAisQggEGgsC8QlikYc9FH5RhAAAAABJRU5ErkJggg==);*background-image:url("http://images2.mcmaster.com/gfx/grdntPlayHvr.png?ver=22506362")!important;}.SpecSrch_GenInfoLnk_Slctd{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAASCAIAAACRnwaAAAABm0lEQVR4nO3ZQU8iMRQH8JbhdSSugweCCYTTwiaAK+ED8P0PE65KojC4wMFNhpVBYZjS1sOYhniyUWLc/H+npv0fenh5b9Lhw+GQAXy2wldfAP5PKCw4ChQWHEXxqy8A3w8RSSOj2yiOYyFEtVpttprpNt3v9zaDwgI3Qoi/Dw+TKNJaM8ayLJvP58vlstvtep6nlMpjGIXggIiWcRxNp1rrTqfzq9XyhWCMbTabMAxLpZJNomOBA8757d1d3pZq9Vq9Vm80GuPJZLFYKKXGk/FF9SJPomOBg418tsMuWSW+7/9sNgeDQa/XI6LZn5lNorDAwTZJ7dpWmO/75+WyEOIwiVEIDoJyYNdpmhpjVsnqfno/Go3W6/VhEoUFDgSJYrGYPyt4njebz8IwfPz3mHevq96VTXL8K4T3I6Kn56eb6xvOuZTy8Ogs+HF5+Vtmr5v4xgIHUsrgLGi328YYu8k5r1Qq/X7f6INNdCxwRUSFQmGdJnpnDDOnwSlxUkrh5R0+JB+CgvvshDHGdKZ3bPcmg1EIR4HCgqN4AYQSqh8PmQ9DAAAAAElFTkSuQmCC);*background-image:url("http://images1.mcmaster.com/gfx/grdntPlayEnd.png?ver=22507666")!important;}
+
+.ChooseSpecsLayout_AttrGrp.collapsed .SpecLayout_GenInfoLnk{display:none;}.SpecLayout_GenInfo{position:absolute;z-index:73;}.SpecLayout_GenInfo{-moz-border-radius:3px;-moz-background-clip:border;-webkit-border-radius:2px;-webkit-background-clip:border;border:1px solid #000;}.SpecLayout_GenInfo_InvisibleShield{position:absolute;z-index:71;background-color:white;filter:alpha(opacity=0);opacity:0;}.SpecLayout_GenInfo_TransparentBorder{position:absolute;z-index:73;background-color:#c0c0c0;filter:alpha(opacity=80);opacity:.8;border:1px solid #969696;-moz-border-radius:4px;-moz-background-clip:border;-webkit-border-radius:6px;-webkit-background-clip:border;}.SpecLayout_GenInfo,.SpecLayout_GenInfo .PrsnttnHdrCntnr,.SpecLayout_GenInfo .PrsnttnHdrCntnr:hover,.SpecLayout_GenInfo .PrsnttnHdrCntnr:hover .PrsnttnNm,.SpecLayout_GenInfo .PrsnttnHdrCntnr:hover .SecondaryLnk{background-color:#FFF!important;}.SpecLayout_GenInfo_Padding{height:100%;}.SpecLayout_GenInfo .SpecLayout_GenInfo_Padding{padding:0 5px 0 15px;}* html .SpecLayout_GenInfo,* html .SpecLayout_GenInfo_Padding,* html .SpecLayout_GenInfo .FullPrsnttn{float:left;}.SpecLayout_GenInfo .FullPrsnttn{border-top:none;margin-bottom:0;padding-bottom:10px;}.SpecLayout_GenInfo .PrsnttnHdrCntnr{position:absolute;padding-top:10px;top:0;left:15px;}.SpecLayout_GenInfo .PrsnttnNm{font-size:13px!important;font-weight:bold!important;border-bottom:1px solid #363;}.SpecLayout_GenInfo .PrsnttnHdrCntnr:hover,.SpecLayout_GenInfo .PrsnttnHdrCntnr:hover .PrsnttnNm,.SpecLayout_GenInfo .PrsnttnHdrCntnr:hover .SecondaryLnk{color:#363!important;cursor:auto!important;text-decoration:none!important;}.SpecLayout_GenInfo .PrsnttnHdrCntnr .SecondaryLnk:hover{cursor:pointer!important;text-decoration:underline!important;color:#000!important;background-color:#FFFFB5!important;background-position:-566px -87px;}.SpecLayout_GenInfo img{cursor:auto;}#ShellLayout_ChooseSpecs_Inner .ChooseSpecsLayout_AttrGrp.collapsed .SpecLayout_GenInfoLnk{display:none;}#ShellLayout_ChooseSpecs_Inner .ChooseSpecsLayout_ChldAttrGrp .SpecLayout_GenInfoLnk{margin-left:10px;}
+
+.DynamicPage,.DynamicPage_PinnedElem,.CtlgPage_PinnedElem{zoom:1;font:12px/14px arial,helvetica,sans-serif;}.DynamicPageLayout_Title{background:white;position:fixed;z-index:1;border-bottom:1px solid #363;}* html .DynamicPageLayout_Title{position:static;}* html #prodCntPlchldr{display:none;}.DynamicPageLayout_ProdCntCntnr{height:15px;padding:4px 0 2px;background:white;}.DynamicPageLayout_ProdCntLbl{float:left;}.DynamicPageLayout_ErrMsgCntnr{margin:6px 0;}.CtlgPageLayout_PageHdr{margin:0 0 5px 0;}.CtlgPageLayout_PageCpy{margin:5px 0 0 0;}.CtlgPageLayout_PageImg{position:absolute;top:0;right:0;}.CtlgPageLayout_PageFooter{clear:both;}.CtlgPageLayout_PageLogo{float:right;}.FeedbackPrompt{float:right;size:10px;text-decoration:none;font-weight:normal;}@media print{.FeedbackPrompt{display:none!important;}}
+
+/* PAGE */
+.DynamicPage 
+{
+	padding-bottom:10px;
+}
+
+/* PRSNTTN ELEMENTS */
+.PrsnttnNm
+{
+	font-size: 19px;
+	color:#336633;
+	line-height:21px;
+}
+
+.PrsnttnBulletedList 
+{
+    list-style-type:none;
+}
+
+.PrsnttnBulletedListItm 
+{
+background-image:url("http://images2.mcmaster.com/gfx/HomePageImages.png?ver=31916662");
+background-position:-499px -179px;
+background-repeat:no-repeat;
+line-height:14px;
+padding-left:8px;
+}
+
+.PrsnttnCpy 
+{
+	text-align : justify;
+	line-height:14px;
+}
+
+.Prsnttn_SubHead
+{
+	padding-left:4px;
+}
+
+.CADPrsnttnCpy 
+{
+	line-height:14px;
+}
+
+.Prsnttn_CloseLnk 
+{
+	background-image: url("http://images2.mcmaster.com/gfx/HomePageImages.png?ver=31916662");	/* site-wide sprite file */
+	background-repeat: no-repeat;
+	background-position: -547px -111px;
+	text-indent: 18px;			
+	line-height: 21px;	
+	float: right;
+	font-weight:normal;
+}
+
+.Prsnttn_CADImg 
+{
+	padding-right: 5px;
+	vertical-align: middle; 
+	margin-bottom: 3px;
+}
+
+/* SUB PRESENTATIONS */
+/*.SubPrsnttnCntnrTd{
+	vertical-align: top;
+}*/
+
+.SubPrsnttnCntnrDiv{
+	margin-right: 30px;
+}
+
+
+/* FULL PRSNTTN */
+
+.FullPrsnttn 
+{
+	padding-right: 10px;
+	margin-bottom: 10px;
+}
+
+.fullPrsnttnVerticalGutter 
+{
+	margin-top:10px;
+}
+
+
+/* ABBR PRSNTTN */
+
+.AbbrPrsnttn 
+{
+	border-bottom:solid 1px #FFF;
+	border-left:solid 1px #FFF;
+	border-right:solid 1px #FFF;
+	padding: 5px 5px 5px 5px;
+	text-decoration: none;
+	zoom:1;
+}
+
+.AbbrPrsnttn_PrsnttnRul 
+{
+	border-top: solid 1px #999999;
+}
+
+.AbbrPrsnttn_PrsnttnHdrCntnr_Side
+{
+	padding: 35px 0px 0px 0px;
+}
+	
+.AbbrPrsnttn_PrsnttnNm
+{
+	font-size:14px;
+	line-height:16px;
+	color: #006699;
+}
+
+/* GEN INFO */
+.AboutBox 
+{
+	padding: 5px 10px 5px 20px;
+	background-color: #EEE;	
+	border: solid 1px #FFF;
+	margin-top: 5px;
+}
+
+.AbbrGenInfo {
+	background-image: url("http://images2.mcmaster.com/gfx/HomePageImages.png?ver=31916662"); /* site-wide sprite file */
+	background-repeat: no-repeat;
+	background-position: -434px -247px;
+	clear:both;
+}
+
+.FullGenInfo 
+{
+	background-image: url("http://images2.mcmaster.com/gfx/HomePageImages.png?ver=31916662"); /* site-wide sprite file */
+	background-repeat: no-repeat;
+	background-position: -521px -145px;
+	clear:both;
+	zoom: 1;    /* necessary to prevent Peeakboo Bug in IE6, see http://www.positioniseverything.net/explorer/peekaboo.html */
+}
+
+.AbbrGenInfo_PrsnttnNm 
+{
+	font-size:14px;
+}
+
+.AbbrGenInfoTblGrp_TblHdr {
+	border-bottom: 1px solid #999;
+	padding:5px 5px 5px 5px;
+}
+
+.AbbrGenInfoTblGrp {
+	border:1px solid transparent;
+	text-decoration: none;
+	zoom:1;
+}
+
+.AbbrGenInfoTblGrp:hover {
+	background-color:#ffffb5;
+	cursor:pointer;
+}
+
+.FullGenInfo_Subhead 
+{
+	font-size: 14px;
+	color:#336633;
+}
+
+.ToggleLnk
+{
+	font-size: 11px;
+	text-decoration: none;
+	color: #006699;
+	text-indent: 0px;
+}
+
+
+/*	GROUP PRSNTTN */
+
+.GroupPrsnttn_AbbrPrsnttn
+{
+	border-top: solid 1px #FFFFFF;
+}
+
+.GroupPrsnttn_PrsnttnNm 
+{
+	background-color:#EEEEEE;
+	color:#333333;
+	font-size:19px;
+	line-height:23px;
+	padding: 0px 0px 0px 2px;
+	border-top: solid 1px transparent;
+	border-left: solid 1px transparent;
+	text-indent: 2px;
+}
+
+.AltImgCopyStyle {
+	position:relative;
+}
+
+.ItmTblMedPivotSpace{margin-top:8px}.ItmTblMaxPivotSpace{margin-top:13px}.ItmTblContentCell{vertical-align:text-top;line-height:14px}.ItmTblRow_Hover{cursor:pointer}.TouchItmTblContentCell{padding-top:7px;padding-bottom:8px}.ItmTblCellSpec{text-align:left}.ItmTblCellPartNbr{text-align:left}.ItmTblCellPrce{text-align:right}.ItmTblImgCell{text-align:right}.ItmTblImgCellCenter{text-align:Center}.ItmTblImg{vertical-align:text-top}.ItmTblPivotImgCell{vertical-align:top;padding:7px 7px 0 0;text-align:center}.ItmTblLnk{text-align:center}.ItmTblLnkImg{display:block;margin-left:auto;margin-right:auto}.ItmTblLnkWthImg{vertical-align:top}.NoWrapCell{white-space:nowrap}.ItmTblAllRuleContentCell{border-bottom:1px solid #999;padding-bottom:3px;padding-top:3px}.TouchItmTblAllRuleContentCell{border-bottom:1px solid #999;padding-bottom:8px;padding-top:7px}.ItmTblHiddenCell{visibility:hidden}.ItmTblCellIndentPivotNone{padding-left:5px}.ItmTblCellIndentPivotMin{padding-left:7px}.ItmTblCellIndentPivotMed{padding-left:14px}.ItmTblCellIndentPivotMax{padding-left:21px}.ItmTblColSpaceSpec{padding-right:15px}.ItmTblColSpaceSpecBefrPartNbr{padding-right:12px}.ItmTblColSpaceRelSpec{padding-right:10px}.ItmTblColSpaceRelSpecEnd{padding-right:15px}.ItmTblColSpaceRelSpecEndBefrPartNbr{padding-right:12px}.ItmTblColSpacePartNbr{padding-left:3px;padding-right:3px}.ItmTblColSpacePrce{padding-right:15px}.ItmTblColSpacePrceHorizPivotEnd{padding-right:25px}.ItmTblColSpacePrceHorizPivotBefrPartNbr{padding-right:22px}.ItmTblColSpacePrceTblEnd{padding-right:5px}.ItmTblColSpacePrceAftrPartNbr{padding-left:9px}.ItmTblColSpaceInlnOrdFiller{padding-left:10px}.ItmTblColSpaceDisplTxt{padding-right:12px}.ItmTblColSpaceUm{padding-left:9px;padding-right:15px}.ItmTblDigitAlign0{text-indent:0}.ItmTblDigitAlign1{text-indent:7px}.ItmTblDigitAlign2{text-indent:14px}.ItmTblDigitAlign3{text-indent:21px}.ItmTblDigitAlign4{text-indent:28px}.ItmTblDigitAlign5{text-indent:35px}.ItmTblDigitAlign6{text-indent:42px}.ItmTblDigitAlignX0{text-indent:0}.ItmTblDigitAlignX1{text-indent:10px}.ItmTblDigitAlignX2{text-indent:14px}.ItmTblDigitAlignX3{text-indent:24px}.ItmTblDigitAlignX4{text-indent:31px}.ItmTblDigitAlignX5{text-indent:38px}.ItmTblDigitAlignX6{text-indent:45px}.ItmTblColHdrGrp{color:#000;vertical-align:bottom;line-height:14px;font-weight:bold}.ItmTblColHdrBracket{margin-right:1px;margin-left:1px;background-image:url(data:image/gif;base64,R0lGODlhAQABAPcAAJmZmQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAAAQABAAAIBAABBAQAOw==);*background-image:url("http://images1.mcmaster.com/gfx/PrsnttnLayout_ItmTblColHdrBracket_Background.gif?ver=316594");background-attachment:scroll;background-color:white;background-position:0 8px;background-repeat:repeat-x;text-align:center;padding-left:3px;padding-right:3px}.ItmTblSingleColSuperHdrCell{text-align:center}.ItmTblColSuperHdrAlign{vertical-align:bottom}.ItmTblSuperHdrCell{background-color:transparent;background-repeat:repeat-x;background-image:url(data:image/gif;base64,R0lGODlhAQAOAIABAJmZmf///yH5BAEAAAEALAAAAAABAA4AAAIEjG+gWwA7);*background-image:url("http://images1.mcmaster.com/gfx/PrsnttnLayout_ItmTblColHdrBracket_Foot.gif?ver=3320074");white-space:nowrap}.ItmTblColHdrBracketTxt{padding:0 2px 0 2px;background-color:#FFF;line-height:15px;z-index:1}.ItmTblColSuperHdr{font-weight:bold}.ItmTblColSuperHdrDeflt{font-weight:bold}.wbr:before{content:"\200B"}.ItmTblColSubHdr{font-weight:bold;color:#333}.ItmTblColHdrPriceInterior{padding-right:25px}.ItmTblColHdrPrice{padding-right:15px}.ItmTblColHdrSpecEnd{padding-right:10px}.ItmTblColHdrEndPrice{padding-right:5px}.PivotHdr{padding-left:2px}.ItmTblBaseHdrNoBorderCell{border-bottom:solid 1px #999;vertical-align:bottom;color:#000;line-height:14px}.ItmTblBaseHdrBorderCell,.ItmTblSubHdrBorderCell{border-bottom:solid 1px #999;vertical-align:bottom;color:#000;line-height:14px}.ItmTblColBaseHdr,.ItmTblColTblSubHdr{padding-right:10px}.ItmTblColBaseHdrNoPivotIndent{padding-right:10px;padding-left:5px}.ItmTblColBaseHdrRelSpecNoPivotIndent{padding-right:10px;padding-left:5px}.ItmTblColBaseHdrMinPivotIndent{padding-right:10px;padding-left:7px}.ItmTblColBaseHdrRelSpecMinPivotIndent{padding-right:10px;padding-left:7px}.ItmTblColBaseHdrMedPivotIndent{padding-right:10px;padding-left:14px}.ItmTblColBaseHdrRelSpecMedPivotIndent{padding-right:10px;padding-left:14px}.ItmTblColBaseHdrMaxPivotIndent{padding-right:10px;padding-left:21px}.ItmTblColBaseHdrRelSpecMaxPivotIndent{padding-right:10px;padding-left:21px}.ItmTblColBaseHdrSpecInterior{padding-right:10px}.ItmTblColBaseHdrRelSpec{padding-right:10px}.ItmTblColBaseHdrSpecEnd{padding-right:10px}.ItmTblColBaseHdrSpecTblEnd{padding-right:5px}.ItmTblColBaseHdrPriceInterior,.ItmTblColSubHdrPriceInterior{padding-right:22px;text-align:right}.ItmTblColBaseHdrEndPrice,.ItmTblColSubHdrEndPrice{text-align:right;padding-right:5px}.ItmTblColBaseHdrPrice,.ItmTblColSubHdrPrice{text-align:right;padding-right:15px}.ItmTblColBaseHdrMultiPriceInteriorEnd,.ItmTblColSubHdrMultiPriceInteriorEnd{text-align:right;padding-right:25px}.ItmTblSubHdrCell{padding-top:8px}.ItmTblSubHdrNoBorderCell{vertical-align:bottom;color:#000;line-height:14px}.ItmTblUM{padding-right:10px}.ItmTblPivot{padding-left:2px}.ItmTblPivotWthImg{padding-left:2px;background-color:#eee}.ItmTbl{border-collapse:separate;*border-collapse:expression('separate',cellSpacing = '0')}.SecondaryTbl{margin-top:5px}.SecondaryDatTblCntnr{float:left;padding:4px 5px 5px 5px;border:solid 1px #999}.ItmTblFiller{color:#999}.ItmTblColMinWdthCntnr{height:0;font-size:0;line-height:0}.ItmTblFirstFootNote{margin-left:1px}.ItmTblFootnoteSymbLeftPad{padding-left:2px}.ItmTblFootnoteTxt{padding-left:3px;color:#333;font-size:11px}.ItmTblStdBoxSize{height:auto;text-align:center;width:11px}.ItmTblMedPivotIndent{padding-left:9px}.ItmTblMaxPivotIndent{padding-left:16px}.SideBySideTbl{float:left}.ItmTblGrp{clear:both}.ItmTblFooter{line-height:12px}.ItmTblFrstFooterRow{padding-top:5px}.SubHead{text-indent:4px;margin-top:10px;margin-bottom:3px;clear:both}.SuperLbl{color:#000;font-weight:bold;background-color:#eee}.SuperTblLbl,.AllRulesSuperTblLbl{color:#000;font-weight:bold;background-color:#eee}.SubTblLbl{color:#333;font-weight:bold}.SubLbl{color:#333;font-weight:bold}.Lbl{color:#000;padding-left:10px}.TblLbl{font-weight:bold}.ItmTblPivotImgHdrCell{text-align:center;padding-bottom:4px;vertical-align:bottom}.ItmTblPivotFillerRow{line-height:0;font-size:0}.ItmTblPivotFillerCell{padding-bottom:0}.ItmTblPartNbrSlctd{font-weight:bold;color:#000}
+
+.ToOrdLbl,.AlsoAvailLbl,.AddlInfoLbl,.EmphasizedTxt{font-weight:bold;}.Fraction{font-size:10px;line-height:10px;}.SpecChoiceFraction{font-size:10px;line-height:14px;}.EmphasizedTxt2{font-style:italic;}.Wrd{white-space:nowrap;}.SecondaryLnk{font-size:11px;text-decoration:none;}.SecondaryLnk:hover{color:#000;background-color:#FFFFB5;text-decoration:underline;}.ImgCaptionCntnr{text-align:center;}.ImgCaption{color:#000;margin-top:5px;text-align:center;}.ImgSlctd{padding-left:14px;padding-right:14px;}.floated{float:left;}.clear{clear:both;}.clearMargin{margin:0;}.verticalGutter{margin-bottom:10px;}.smallVerticalGutter{margin-bottom:5px;}.largeVerticalGutter{margin-bottom:20px;}.hugeVerticalGutter{margin-bottom:60px;}.xLargeVerticalGutter{margin-bottom:50px;}.horizontalGutter{margin-right:10px;}.smallHorizontalGutter{margin-right:5px;}.largeHorizontalGutter{margin-right:20px;}.xLargeHorizontalGutter{margin-right:50px;}.listItmGutter{margin-bottom:2px;}.ImageCell{vertical-align:top;}.SubPrsnttnCell{vertical-align:top;}.PrsnttnCell{vertical-align:top;}.imgPadding{padding-right:20px;}.subPrsnttnPadding{padding-right:30px;}.prsnttnPadding{padding-right:80px;}
+
+.GroupPrsnttn .AbbrPrsnttn{border-top:solid 1px #FFF;}.no-touch .GroupPrsnttn .AbbrPrsnttn:hover,.no-touch .GroupPrsnttn .AbbrPrsnttnHover{border:solid 1px #DDD;}#.GroupPrsnttn .PrsnttnHdrCntnr .GroupPrsnttn_PrsnttnNm{zoom:1;}
+
+/* 	The overall container of the toolset.  It has a white 
+	background and a high z-index so normally flowed content 
+	will scroll "behind" it.  It does not have a fixed
+	height because it may wrap to two lines.  Height-related
+	logic is contained in the Web Toolset's javascript. */
+.WebToolsetWebPart_Cntnr {
+	background-color: #fff;
+	border-bottom: 1px solid #363;
+	height: 16px; /* must have an explicit height for tab styling */
+	padding-top: 3px; /* requested by Noah for purpose of aligning to homepage nav.  noah says thanks! */
+	padding-bottom: 2px;
+	position: fixed;
+	white-space: nowrap;
+	z-index: 8900; /* must sit above all else, even the form and confirmation message containers */	
+	}
+	
+/* 	IE6 does not support position:fixed and exhibits some VERY funky
+	behavior when position:fixed is used near floating elements.  We gotta AVOID that! 
+	
+	Also, touch-aware devices (e.g. iPad) do not support position:fixed.
+	The "touch" class is attached to document.body in JavaScript upon ShellLoaded.
+	*/
+* html .WebToolsetWebPart_Cntnr,
+.touch .WebToolsetWebPart_Cntnr {
+	position: absolute !important; /* overrides position:fixed */
+	}
+
+	
+/*	The generic class for an individual tool's wrapping DIV.
+	NOTE: There is logic in the Web Toolset's javascript to
+	remove the border, margin, and padding properties of the
+	rightmost tool. */
+.WebToolsetToolWebPart_Cntnr {
+	background-color: #fff;
+	border-top: solid 2px #fff; /* necessary for size balncing with active tools, which have a gray border */
+	height: 16px;
+	padding: 0 6px;
+	white-space: nowrap;
+	z-index: 9000;
+	}
+	
+/* Tools that are aligned to the right */	
+.WebToolsetToolWebPart_Aligned_RIGHT {
+	border-right: solid 1px #999;
+	float: right; /* shrink wrapped */
+	}
+	
+/* Tools that are aligned to the left */	
+.WebToolsetToolWebPart_Aligned_LEFT {	
+	float: left;	
+	}
+	
+	
+/* The active tool container, which
+	has CSS properties to make it "tab-like." */
+.WebToolsetWebPart_Cntnr .WebToolsetToolWebPart_ActvCntnr {
+	border-color: #ddd #ddd #fff #ddd !important;
+	border-style: solid !important;
+	border-width: 2px 2px 0 2px !important;
+	color: #000 !important;
+	font-weight: bold !important;
+	height: 18px !important; /* test */
+	padding: 0 6px !important;
+	}
+	
+.WebToolsetToolWebPart_ActvCntnr a {
+	color: #000 !important;
+	font-weight: bold !important;
+	text-decoration: none !important;
+	}
+
+.no-touch .WebToolsetToolWebPart_ActvCntnr a:hover {
+	background-color: transparent !important;
+	}
+	
+	
+/* The inactive tool adjacent to the active
+	container.  Its borders must be removed so
+	the active container looks "tab-like." */
+.WebToolsetToolWebPart_AdjacentInactvCntnr {
+	border-left: none !important;
+	border-right: none !important;
+	}
+	
+/* 	Class for the rightmost tool, which should be flush-right
+	against its container with no border. */
+/* 	NOTE: This class is prepended with "div" to give it a higher order in the cascade.
+	Do not remove. */
+div.WebToolsetToolWebPart_RightmostTool_Cntnr {
+	border-right: none;
+	margin-right: 0;
+	padding-right: 0;
+	}
+	
+	.WebToolsetWebPart_Icon_CtlgOptOut{
+	margin-left: -1px;
+	padding-left: 16px;
+	
+	/* cannot be put into site-wide sprite because center and bottom alignments are used on this background image elsewhere in this file */		
+	/* background image with data URI - supported by modern browsers */
+	/* see http://www.websiteoptimization.com/speed/tweak/inline-images/ for more information */	
+	background-image: url("data:image/gif;base64,R0lGODlhDQANAPcAAAAAAG96GYt3JJ2XDa6JI7WlC76lXMucLsqyCdaqCdS5CNW+JeKxCNSxWeXFBOPEFfPNAvHOHv7WAP/XHO3DO/7ZKP/dN//dQebKiP/qhu7n0vPpw/70xvDs4v/77gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAP8ALAAAAAANAA0AAAiCAP91GDhQwwYNHDj8W9ggAQUKER4oUFBgwcJ/BgQkGBBggMcBFhkSSIAAgQMIECRUuNiAAAMJMGOuXJgxgQQICAoUgDDzX8sFEhAEEFBAJcsDLyE4gMmTpUsJDk7C7GlgpAQFCFJKmHAxY1KUNy9cxIA0poUMCS962EDhLAcPFxcGBAA7");	
+	/* background image rule for IE7 and below, which do not support data URIs */
+	/* image encoded at http://www.abluestar.com/utilities/encode_base64/index.php */
+	/* the star CSS hack below selects IE7 and below */			
+	*background-image:url("http://images2.mcmaster.com/gfx/Catalog_Line_Icon.gif?ver=26060766") !important;
+	
+	background-position: 0px 0.5px;
+	background-repeat:no-repeat;
+}
+
+/*	The text tool is a more specific type of Web Toolset Tool.  
+	Override the properties of the more general 
+	"WebToolsetToolWebPart_Cntnr" class above with !important
+	rules.
+	*/
+.WebToolsetToolWebPart_TxtTool_Cntnr {
+	border: none !important;
+	font-weight: bold;
+	}
+	
+/* 	Styling of the <textarea> input. */	
+.WebToolsetToolWebPart_MsgInp {
+	overflow: auto;
+	width: 300px;
+	}
+	
+	/*	The left border is contained in a div that is
+	positioned absolutely to the left, top, and	bottom. */
+.WebToolsetToolWebPart_LeftBorder {
+	border-left: 7px solid #ffe600;
+	position: absolute; 
+	height: 100%;
+	margin-left: -15px;
+	margin-top: -10px;
+	}
+	
+/*	The close button is floated right for positioning
+	and shrink-wrapping.  The white-space rule prevents
+	the image from ever parting ways with its
+	accompanying text. */
+.WebToolsetToolWebPart_CloseBtn {
+	float: right;
+	left: 5px;
+	position: relative;
+	top: -5px;
+	white-space: nowrap;
+	}
+
+/*  The <a> element of the close button	encapsulates both 
+	the close icon and the text.  The <a> must be a block-level
+	element for proper on-hover background highlighting. */	
+.WebToolsetToolWebPart_CloseBtn a {
+    background-position: -76px -57px;   
+	display: block;
+	height: 14px;
+	overflow: hidden;
+	width: 12px;
+	}
+
+/*	This rule prevents a text underline from showing beneath
+	the close icon. */
+.no-touch .WebToolsetToolWebPart_CloseBtn a:hover {
+	text-decoration: none !important;
+	background-position: -76px -40px;
+	}
+
+/*	Shared styles for buttons with sprited background images */
+.WebToolsetToolWebPart_SendBtn,
+.WebToolsetToolWebPart_CnclBtn,
+.WebToolsetToolWebPart_OkBtn  {
+	background-image: url("http://images2.mcmaster.com/gfx/HomePageImages.png?ver=31916662"); /* site-wide sprite file */
+	background-repeat: no-repeat;
+	display: block;
+	float: left;
+	text-indent: -9999px; /* position text off screen */	
+	}	
+	
+.WebToolsetToolWebPart_SendBtn	 {
+	background-position: -105px -40px;
+	height: 21px;
+	width: 46px;
+	}
+	
+.WebToolsetToolWebPart_CnclBtn	 {
+	background-position: -158px -40px;
+	height: 21px;
+	width: 58px;
+	}
+.WebToolsetToolWebPart_OkBtn	 {
+	background-position: -230px -40px;
+	height: 21px;
+	width: 34px;
+	}
+	
+
+/* 	The form container and confirmation message container of
+	tools in the Web Toolset are always initially hidden.  A
+	user action can reveal these containers. 
+	
+	NOTE: The "top" position is set in the Web Toolset's javascript
+	to be properly offset from the overall Web Toolset's container.
+	Because this height can vary based on the width of the
+	Web Toolset, the "top" offset is figured out in javascript. */
+.WebToolsetToolWebPart_FormCntnr,
+.WebToolsetToolWebPart_ConfirmationMsg {
+	background: #fff;		
+	border: solid 2px #ddd;
+	display: none; /* initially hidden */	
+	overflow: visible;
+	right: 0;
+	padding: 10px 10px 0px 15px;
+	position: absolute;
+	width: 305px;
+	height: auto;
+	z-index: -1;
+	}
+	
+.WebToolsetToolWebPart_ConfirmationMsg 
+{
+	padding-bottom: 5px;
+}
+	
+.WebToolsetToolWebPart_ErrMsgCntnr{
+	width: 100%;
+	font-weight: bold;
+	white-space: normal;
+}
+
+.WebToolsetToolWebPart_ConfirmationMsgTxt {
+	position: absolute;
+	}
+	
+.WebToolsetToolWebPart_LblCntnr {
+	margin: 6px 0 3px 0;
+	}
+	
+	
+.WebToolsetToolWebPart_Btns {
+	margin-top: 6px;
+	margin-bottom: 10px;
+	}
+	
+.WebToolsetToolWebPart_Btns img {
+	margin-right: 3px;
+	}
+	
+.WebToolsetToolWebPart_InpFieldsTbl td {
+	padding: 2px 4px 0 0;
+	}
+	
+.WebToolsetToolWebPart_ToEmailInp, .WebToolsetToolWebPart_FrmEmailInp{
+	width: 250px;
+	}
+	
+.WebToolsetToolWebPart_CpyToCntnr{
+	padding-top: 3px;
+	}
+
+/* Styling for PUB Catalog Page Viewer */
+	
+#dynamicPgOptOut {
+	vertical-align: top;
+	display: inline-block;
+	height: 15px;
+}
+
+#RltdPgNbrs_currPg {
+    background-color: #CCCCCC;
+}
+
+#MultiPageNav, #MultiPageNav ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+#MultiPageNav a {
+	display: block;
+	width: 161px;
+}
+
+#MultiPageNav li {
+	float: left;
+	width: 161px;
+}
+
+#MultiPageNav li ul {
+	position: absolute;
+	width: 161px;
+	left: -999em;
+	display: none;
+   	padding: 3px;
+	background-color: white;
+}
+
+#MultiPageNav li:hover ul, #MultiPageNav li.sfhover ul {
+	left: auto;
+	display: block;
+}
+/* End section of PUB catalog page styling */
+	
+/*WEB PART SPECIFIC STYLES*/
+    /*ORDER PAD STYLES*/
+    .ordPadToolsetStyles,
+	.cadWebPartToolsetStyles
+       {
+        border-top: 1px solid #316331 !important; 
+        border-bottom: 0 !important;
+    }
+   
+	
+    .currOrdTitle
+    {
+        font-size: 16px !important;
+        color: #316331 !important;
+    }
+	
+/**************************************************************
+	"App mode"
+	These styles apply when the web site is loaded from the
+	context of the iPad app, i.e. with query string "appmode=true."
+***************************************************************/
+	
+	/* In app mode, the web toolset is just another container.  Disable absolute/fixed positioning. */
+	.appmode .WebToolsetWebPart_Cntnr {
+		position: relative !important;	
+	}
+		
+	.appmode .ordPadToolsetStyles {
+		border-top: none !important;
+	}		
+
+	.appmode .WebToolsetToolWebPart_how-can-we-improve,
+	.appmode .WebToolsetToolWebPart_print {
+		display: none;
+	}
+	
+/* PRINT-ONLY STYLES */	
+@media print {
+
+	/* Hide the toolset in a printed page */
+	.WebToolsetWebPart_Cntnr {
+		display: none !important;
+		}
+		
+}
+
